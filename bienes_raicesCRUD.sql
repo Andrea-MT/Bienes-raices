@@ -96,7 +96,7 @@ CREATE TABLE `vendedores` (
 
 LOCK TABLES `vendedores` WRITE;
 /*!40000 ALTER TABLE `vendedores` DISABLE KEYS */;
-INSERT INTO `vendedores` VALUES (1,'Carlos','May','9993240893'),(2,'Benito','Martínez','7884412154'),(5,' Andrea','González','9998451274'),(6,' Cristiano Actualizado','Ronaldo','7854123654');
+INSERT INTO `vendedores` VALUES (1,'Carlos','Martinez','9993240893'),(2,'Benito','Martínez','7884412154'),(5,' Andrea','González','9998451274'),(6,' Cristiano Actualizado','Ronaldo','7854123654');
 /*!40000 ALTER TABLE `vendedores` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;

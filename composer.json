@@ -1,18 +1,18 @@
 {
-    "name": "may_7/bienes-raices",
-    "description": "Creando un proyecto con POO",
+    "name": "andrea-mt/bienes-raices",
+    "description": "Creando un proyecto para Administración de Proyectos II",
     "type": "project",
     "authors": [
         {
-            "name": "Carlos May",
-            "email": "carlosmay220@gmail.com"
+            "name": "Andrea Mendoza",
+            "email": "ammt0319@gmail.com"
         }
     ],
     "require": {
         "intervention/image": "^2.7",
         "phpmailer/phpmailer": "^6.8"
     },
-    "autoload": { 
+    "autoload": {
         "psr-4": {
             "Model\\": "./models",
             "MVC\\": "./",
